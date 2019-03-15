@@ -15,12 +15,12 @@ def greeting (greeting, name)
 end
 
 def return_a_value ()
-puts "Nice"
+  return "Nice"
     myVal
 end
 
 def last_evaluated_value ()
-puts "expert"
+  return "expert"
 
 end
 
