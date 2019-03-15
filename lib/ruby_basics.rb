@@ -15,12 +15,10 @@ def greeting (greeting, name)
 end
 
 def return_a_value (myVal)
-    myVal = "Nice"
     return myVal
 end
 
 def last_evaluated_value (yourVal)
-    yourVal = "expert"
     return yourVal
 end
 
