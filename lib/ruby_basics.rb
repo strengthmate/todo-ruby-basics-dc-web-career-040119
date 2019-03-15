@@ -16,7 +16,7 @@ end
 
 def return_a_value ()
   return "Nice"
-    myVal
+
 end
 
 def last_evaluated_value ()
