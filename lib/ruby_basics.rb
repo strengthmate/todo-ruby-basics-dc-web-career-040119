@@ -14,14 +14,14 @@ def greeting (greeting, name)
   
 end
 
-def return_a_value (myVal)
-    myVal = "Nice"
+def return_a_value ()
+puts "Nice"
     myVal
 end
 
-def last_evaluated_value (yourVal)
-    yourVal = "expert"
-    yourVal
+def last_evaluated_value ()
+puts "expert"
+
 end
 
 def pizza_party (toppings = "cheese")
